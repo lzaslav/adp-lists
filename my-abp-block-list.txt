@@ -1,8 +1,9 @@
-[Adblock Plus 2.0]
-! Version: 1
 ! Title: My AdBlock List
-! Last modified: 2026-07-04
-! Expires: 365 days (update frequency)
+! Description: My AdBlock List
+! Expires: 365 days
+! Homepage: https://github.com/lzaslav/adp-lists
+! Source: https://github.com/lzaslav/adp-lists/main/my-abp-block-list.txt
+! Updated On: 05/7/2026
 
 ||palacesquare.rambler.ru^
 ||myfastcdn.com^
