@@ -3,8 +3,7 @@
 ! Title: My AdBlock List
 ! Last modified: 2026-07-04
 ! Expires: 365 days (update frequency)
-! Homepage:
-!
+
 ||palacesquare.rambler.ru^
 ||myfastcdn.com^
 ||badskies.com^
