@@ -64,7 +64,7 @@
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
 ||metrics1.data.hicloud.com^
-||metrics5.data.hicloud.com ^
+||metrics5.data.hicloud.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
@@ -208,7 +208,7 @@
 ||luck.indeedgrass.com^
 ||platform.pubadx.one^
 ||universityshocksooner.com^
-||imp9.pubadx.one  ^
+||imp9.pubadx.one^
 ||aqle3.com^
 ||sootoarathus.net^
 ||chagnougroalry.net^
